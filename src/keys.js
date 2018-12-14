@@ -24,6 +24,9 @@ exports.CodeToKey = {
   DDG: 'middleNameTruncated',
   // optional
   DAZ: 'hairColor',
+  ZCB: 'unknownField',
+  ZCC: 'unknownField',
+  ZCD: 'unknownField',
   DAH: 'addressStreet2',
   DCI: 'placeOfBirth',
   DCJ: 'auditInformation',
