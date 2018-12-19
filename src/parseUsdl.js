@@ -2,7 +2,7 @@ const CodeToKey = require("./keys").CodeToKey;
 
 const lineSeparator = "\n";
 
-const defaultOptions = {suppressErrors: false};
+const defaultOptions = {suppressErrors: true};
 
 exports.parse = function parseCode128(str, options = defaultOptions) {
   const props = {};
